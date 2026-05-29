@@ -1,0 +1,24 @@
+#about {
+text-align: center;
+padding: 50px;
+}
+#work {
+text-align: center;
+padding: 50px;
+}
+#resume {
+text-align: center;
+padding: 50px;
+}
+#contact {
+text-align: center;
+padding: 50px;
+}
+#about h2, #work h2, #resume h2, #contact h2 {
+font-size: 40px;
+margin-bottom: 20px;
+}
+#about p, #work p, #resume p, #contact p {
+font-size: 20px;
+line-height: 1.5;
+}
